@@ -1,2 +1,2 @@
-# Projecten2-Healthhub
+# HealthHub-Project-fooddispenser
 The Repository for the Project at Healthhub Roden
