@@ -1,2 +1,6 @@
+# Ignore IDE folders
+.idea
+.vscode
+
 # Ignore build files
 .pio
