@@ -1,7 +1,7 @@
 # HealthHub-Project-fooddispenser
 The Repository for the Project at Healthhub Roden
 
-## Made by
+## Code Made by
 - Guusje
 - Bertus
 - Emily (External Assistance)
